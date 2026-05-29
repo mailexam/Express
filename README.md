@@ -144,6 +144,6 @@ After sending a message in a test, verify delivery via the [Mailexam API](https:
 
 ## See also
 
-- [Mailexam Express guide (wiki)](https://github.com/mailexam/wiki/blob/main/docs/en/examples/express.md)
+- [Mailexam Express guide (wiki)](https://wiki.mailexam.ru/en/examples/express/)
 - [Express documentation](https://expressjs.com/)
 - [Nodemailer documentation](https://nodemailer.com/)
