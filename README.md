@@ -2,7 +2,7 @@
 
 Minimal [Express](https://expressjs.com/) example that sends test mail through [Mailexam](https://mailexam.ru/) SMTP via [Nodemailer](https://nodemailer.com/).
 
-Based on the [Mailexam Express guide](https://github.com/mailexam/wiki/blob/main/docs/en/examples/express.md).
+Based on the [Mailexam Express guide](https://wiki.mailexam.ru/en/examples/express/).
 
 ## What you need
 
