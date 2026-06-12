@@ -149,3 +149,7 @@ After sending a message in a test, verify delivery via the [Mailexam API](https:
 - [Fastify](https://github.com/mailexam/Fastify), [Hapi](https://github.com/mailexam/Hapi), [NestJS](https://github.com/mailexam/NestJS) — other Node.js frameworks
 - [Express documentation](https://expressjs.com/)
 - [Nodemailer documentation](https://nodemailer.com/)
+
+## License
+
+Apache 2.0
