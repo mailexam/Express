@@ -146,7 +146,7 @@ After sending a message in a test, verify delivery via the [Mailexam API](https:
 
 - [Mailexam Express guide (wiki)](https://wiki.mailexam.ru/en/examples/express/)
 - [Node.js reference implementation](https://github.com/mailexam/Node.js) — Nodemailer without a framework
-- [Fastify](https://github.com/mailexam/Fastify), [Hapi](https://github.com/mailexam/Hapi), [NestJS](https://github.com/mailexam/NestJS) — other Node.js frameworks
+- [Fastify](https://github.com/mailexam/Fastify), [Hapi](https://github.com/mailexam/Hapi), [NestJS](https://github.com/mailexam/NestJS), [Next.js](https://github.com/mailexam/Next.js) — other Node.js frameworks
 - [Express documentation](https://expressjs.com/)
 - [Nodemailer documentation](https://nodemailer.com/)
 
